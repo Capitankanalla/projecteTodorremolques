@@ -13,8 +13,7 @@ El lloc està estructurat com una web corporativa estàtica.
 Les dades dels remolcs es carreguen des d'un fitxer JSON centralitzat.
 
 # Flux de funcionament:
-
-Plain Text
+```
 Usuari
 │
 ▼
@@ -28,13 +27,13 @@ Renderitzat dinàmic
 │
 ▼
 Catàleg de remolcs
-
+```
 No existeix persistència de dades ni funcionalitats de reserva.
 
 Qualsevol actualització del catàleg es realitza modificant directament el fitxer de dades.
 
 # Estructura del projecte
-
+```
 todo remoques.com/
 │
 ├── css/
@@ -63,17 +62,15 @@ todo remoques.com/
 ├── index.html
 ├── contacte.html
 └── README.md
-``
+```
 # Gestió del catàleg
 
 Tota la informació dels remolcs es troba a:
 
-Plain Text
 /data/trailers.json
-``
 
 Exemple:
-
+```
 JSON
 {
 "id": 1,
@@ -90,7 +87,7 @@ Crear una nova entrada a:
 JSON
 trailers.json
 Verificar que la targeta es renderitza correctament.
-
+```
 No són necessàries modificacions al codi JavaScript.
 
 # Gestió d'imatges
@@ -103,7 +100,7 @@ AVIF (preferent)
 WebP
 
 Evitar:
-
+```
 PNG innecessaris
 Fotografies superiors a 300 KB
 Imatges duplicades
@@ -115,11 +112,12 @@ JavaScript ES6
 Altres
 JSON com a font de dades
 SVG per iconografia
-AVIF / WebP per imatges
-Criteris de desenvolupament
+AVIF / WebP per imatges.
+```
+# Criteris de desenvolupament
 
 Qualsevol modificació futura ha de respectar:
-
+```
 Rendiment
 Evitar biblioteques externes si no són imprescindibles.
 Minimitzar peticions HTTP.
@@ -129,7 +127,7 @@ Prioritzar solucions natives.
 Evitar dependències innecessàries.
 Mantenir l'estructura comprensible.
 Escalabilitat
-
+```
 Tot i ser una web estàtica, l'estructura permet:
 
 Afegir noves categories de remolcs.
@@ -139,24 +137,24 @@ Connectar amb un futur sistema de reserves.
 Manteniment
 
 Abans de publicar canvis:
-
+```
 Revisar responsive.
 Comprovar enllaços.
 Validar imatges.
 Verificar SEO bàsic.
 Comprovar rendiment Lighthouse.
 Limitacions actuals
-
+```
 # El projecte actualment no inclou:
-
+```
 Reserves online
 Àrea privada
 Gestió d'usuaris
 Base de dades
 Sistema de pagament
-
-Aquestes funcionalitats es contemplen únicament com a possibles ampliacions futures.
-
+```
+# Aquestes funcionalitats es contemplen únicament com a possibles ampliacions futures.
+```
 Futures millores
 Formulari de pressupost.
 Integració amb WhatsApp.
@@ -164,5 +162,4 @@ Filtres de cerca.
 Multiidioma.
 Sistema de reserves.
 Integració amb Google Business Profile.
-
-Envieu els vostres comentaris sobre el BizChat
+```
