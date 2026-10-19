@@ -17,6 +17,7 @@ Issues
  Redactar textos provisionals
  Definir estructura de navegació
  Validar contingut inicial amb el client
+
 Milestone M3 - Estructura Base
 
 Durada estimada: 3-4 dies
@@ -30,6 +31,7 @@ Issues
  Configurar variables CSS
  Configurar tipografia
  Implementar responsive base
+
 Milestone M4 - Home MVP
 
 Durada estimada: 2-3 dies
@@ -52,6 +54,7 @@ Issues
  Afegir remolcs inicials
  Afegir imatges
  Revisar renderització mòbil
+
 Milestone M6 - Contacte MVP
 
 Durada estimada: 1 dia
@@ -62,6 +65,7 @@ Issues
  Afegir adreça
  Afegir CTA WhatsApp
  Afegir enllaç Google Maps
+
 Milestone M7 - Demo Client
 
 Durada estimada: 1-2 dies
