@@ -1,0 +1,15 @@
+:root {
+    color-scheme: light;
+    --color-ink: #1b2824;
+    --color-muted: #66736d;
+    --color-primary: #173b32;
+    --color-primary-dark: #102b24;
+    --color-accent: #d8a94e;
+    --color-paper: #ffffff;
+    --color-surface: #f4f6f3;
+    --color-border: #dfe5df;
+    --container: 1160px;
+    --radius: 16px;
+    --shadow: 0 16px 40px rgba(20, 43, 34, .09);
+    --font-body: Arial, Helvetica, sans-serif;
+}

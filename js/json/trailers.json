@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "nom": "Remolc per a 1 quad",
+        "categoria": "Remolcs motos i quads",
+        "modalitat": "Venda i lloguer",
+        "imatge": "",
+        "descripcio": "Consulta'ns per confirmar el model i la disponibilitat."
+    },
+    {
+        "id": 2,
+        "nom": "RM-1 i RM-2",
+        "categoria": "Remolcs motos i quads",
+        "modalitat": "Venda i lloguer",
+        "imatge": ""
+    },
+    {
+        "id": 3,
+        "nom": "RM-1 Plus S.",
+        "categoria": "Remolcs motos i quads",
+        "modalitat": "Venda",
+        "imatge": ""
+    },
+    {
+        "id": 4,
+        "nom": "RM-3",
+        "categoria": "Remolcs motos i quads",
+        "modalitat": "Venda",
+        "imatge": ""
+    },
+    {
+        "id": 5,
+        "nom": "1Custom núm. 74",
+        "categoria": "Remolcs motos i quads",
+        "modalitat": "Lloguer",
+        "imatge": ""
+    },
+    {
+        "id": 6,
+        "nom": "1Quads",
+        "categoria": "Remolcs motos i quads",
+        "modalitat": "Venda",
+        "imatge": ""
+    },
+    {
+        "id": 7,
+        "nom": "Red Line núm. 89 — tancat amb lona",
+        "categoria": "Remolcs de càrrega mitjana",
+        "modalitat": "Venda i lloguer",
+        "imatge": ""
+    },
+    {
+        "id": 8,
+        "nom": "Remolc de càrrega mitjana estàndard",
+        "categoria": "Remolcs de càrrega mitjana",
+        "modalitat": "Venda",
+        "imatge": ""
+    },
+    {
+        "id": 9,
+        "nom": "Nova gamma — Red Line",
+        "categoria": "Remolcs de càrrega mitjana",
+        "modalitat": "Venda",
+        "imatge": ""
+    },
+    {
+        "id": 10,
+        "nom": "IF-300 soldat",
+        "categoria": "Remolcs de càrrega robusta",
+        "modalitat": "Venda",
+        "imatge": ""
+    },
+    {
+        "id": 11,
+        "nom": "DEF-300 càrrega robusta",
+        "categoria": "Remolcs de càrrega robusta",
+        "modalitat": "Venda",
+        "imatge": ""
+    },
+    {
+        "id": 12,
+        "nom": "Furgo polièster",
+        "categoria": "Furgons de càrrega tancada",
+        "modalitat": "Venda i lloguer",
+        "imatge": ""
+    },
+    {
+        "id": 13,
+        "nom": "Núm. 90 furgó GL-32 dues portes",
+        "categoria": "Furgons de càrrega tancada",
+        "modalitat": "Lloguer",
+        "imatge": ""
+    },
+    {
+        "id": 14,
+        "nom": "Núm. 83 furgó polièster GP-32.2",
+        "categoria": "Furgons de càrrega tancada",
+        "modalitat": "Lloguer",
+        "imatge": ""
+    },
+    {
+        "id": 15,
+        "nom": "Núm. 83 furgó GL-32.2 amb 2 rampes",
+        "categoria": "Furgons de càrrega tancada",
+        "modalitat": "Lloguer",
+        "imatge": ""
+    },
+    {
+        "id": 16,
+        "nom": "Núm. 51 GP-32.2 alt, 2 portes",
+        "categoria": "Furgons de càrrega tancada",
+        "modalitat": "Lloguer",
+        "imatge": ""
+    },
+    {
+        "id": 17,
+        "nom": "Plataforma núm. 69 Alzaga S. carnet",
+        "categoria": "Plataformes grans",
+        "modalitat": "Venda i lloguer",
+        "imatge": ""
+    },
+    {
+        "id": 18,
+        "nom": "Plataforma núm. 62 — 1.300 kg",
+        "categoria": "Plataformes grans",
+        "modalitat": "Venda i lloguer",
+        "imatge": ""
+    },
+    {
+        "id": 19,
+        "nom": "Plataforma d'alumini núm. 73 — 2.800 kg RB",
+        "categoria": "Plataformes grans",
+        "modalitat": "Venda i lloguer",
+        "imatge": ""
+    },
+    {
+        "id": 20,
+        "nom": "Plataforma núm. 98 Lorries",
+        "categoria": "Plataformes grans",
+        "modalitat": "Venda i lloguer",
+        "imatge": ""
+    },
+    {
+        "id": 21,
+        "nom": "Plataforma núm. 69 S. carnet",
+        "categoria": "Plataformes grans",
+        "modalitat": "Lloguer",
+        "imatge": ""
+    },
+    {
+        "id": 22,
+        "nom": "Núm. 65 — porta cotxes 2.000 kg",
+        "categoria": "Plataformes grans",
+        "modalitat": "Venda i lloguer",
+        "imatge": ""
+    },
+    {
+        "id": 23,
+        "nom": "Núm. 66 plataforma d'alumini 2.800 kg",
+        "categoria": "Plataformes grans",
+        "modalitat": "Lloguer",
+        "imatge": ""
+    },
+    {
+        "id": 24,
+        "nom": "Núm. 63 plataforma porta cotxes 1.300 kg",
+        "categoria": "Plataformes grans",
+        "modalitat": "Lloguer",
+        "imatge": ""
+    },
+    {
+        "id": 25,
+        "nom": "RM 2 Plus C — núm. 91",
+        "categoria": "Motos grans",
+        "modalitat": "Lloguer",
+        "imatge": "",
+        "descripcio": "Remolc per a motos grans, amb guies desmuntables i abatibles segons la informació facilitada."
+    },
+    {
+        "id": 26,
+        "nom": "Plataforma núm. 23 — 2 quads XL",
+        "categoria": "Càrrega mitjana amb fre d'inèrcia",
+        "modalitat": "Lloguer",
+        "imatge": ""
+    }
+]

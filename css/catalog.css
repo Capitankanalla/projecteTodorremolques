@@ -1,0 +1,17 @@
+/* Estils del catàleg. Els components comparteixen variables de css/variables.css. */
+.catalog-card__image img {
+    transition: transform .3s ease;
+}
+
+.catalog-card:hover .catalog-card__image img {
+    transform: scale(1.035);
+}
+
+.catalog-empty {
+    grid-column: 1 / -1;
+    padding: 28px;
+    border: 1px dashed var(--color-border);
+    border-radius: var(--radius);
+    color: var(--color-muted);
+    text-align: center;
+}
